@@ -1,14 +1,14 @@
 fileFormatVersion: 2
-guid: 0d9965d9e5b91fb41ac3732d37753f12
+guid: a6adb81199d99d746953e824764202e1
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Curtains_Mat
+    2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Curtains
+    4300000: Wall_Blank
   externalObjects: {}
   materials:
     importMaterials: 1
